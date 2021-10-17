@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project name="WindowsDev2021/android_kernel_samsung_universal8895" path="kernel/samsung/universal8895" remote="github" revision="lineage-17.1" />
-    <project name="WindowsDev2021/android_device_samsung_universal8895-common" path="device/samsung/universal8895-common" remote="github" revision="lineage-17.1" />
-    <project name="WindowsDev2021/android_device_samsung_greatlte" path="device/samsung/greatlte" remote="github" revision="lineage-17.1" />
+    <project name="WindowsDev2021/android_device_samsung_universal8895-common" path="device/samsung/universal8895-common" remote="github" revision="aosp" />
+    <project name="WindowsDev2021/android_device_samsung_greatlte" path="device/samsung/greatlte" remote="github" revision="aosp" />
     <project name="WindowsDev2021/android_vendor_samsung_greatlte" path="vendor/samsung/greatlte" remote="github" revision="lineage-17.1" />
     <project name="WindowsDev2021/android_vendor_samsung_universal8895-common" path="vendor/samsung/universal8895-common" remote="github" revision="lineage-17.1" />
     <project name="WindowsDev2021/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-17.1" />
