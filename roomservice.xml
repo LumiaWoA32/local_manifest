@@ -6,4 +6,5 @@
     <project name="WindowsDev2021/android_vendor_samsung_greatlte-aosp" path="vendor/samsung/greatlte" remote="github" revision="lineage-17.1" />
     <project name="WindowsDev2021/android_vendor_samsung_universal8895-common-aosp" path="vendor/samsung/universal8895-common" remote="github" revision="lineage-17.1" />
     <project name="WindowsDev2021/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-17.1" />
+    <project name="WindowsDev2021/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
 </manifest>
