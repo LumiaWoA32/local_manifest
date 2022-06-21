@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="exynos8895/android_kernel_samsung_universal8895" path="kernel/samsung/universal8895" remote="github" revision="lineage-19.0" />
-    <project name="KangDroid/android_device_samsung_universal8895" path="device/samsung/universal8895-common" remote="github" revision="lineage-19.0" />
-    <project name="exynos8895/android_device_samsung_greatlte" path="device/samsung/greatlte" remote="github" revision="lineage-17.1" />
-    <project name="exynos8895/android_vendor_samsung_greatlte" path="vendor/samsung/greatlte" remote="github" revision="lineage-17.1" />
-    <project name="exynos8895/android_vendor_samsung_universal8895-common" path="vendor/samsung/universal8895-common" remote="github" revision="lineage-17.1" />
-    <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-19.0" />
-    <project name="WindowsDev2021/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-19.0" />
+    <project name="WindowsDev2021/vendor_samsung" path="vendor/samsung" remote="github" revision="12.1" />
+    <project name="WindowsDev2021/kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revision="12.1" />
+    <project name="WindowsDev2021/device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="12.1" />
+    <project name="WindowsDev2021/device_samsung_klte" path="device/samsung/klte" remote="github" revision="12.1" />
+    <project name="WindowsDev2021/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-18.1" />
+    <project name="WindowsDev2021/android_hardware_samsung" path="hardware/samsung" remote="github" revision="twelve" />
 </manifest>
+
