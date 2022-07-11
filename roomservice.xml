@@ -10,6 +10,4 @@
   <project name="Sexynos/android_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="twelve" remote="github"/>
   <!--SLSI-->
   <project name="Sexynos/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="twelve" remote="github"/>
-  <!--Hardware-->
-  <project name="Sexynos/android_hardware_samsung" path="hardware/samsung" revision="twelve" remote="github"/>
 </manifest>
