@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <!-- Samsung Exynos 9810 Device Manifest
-       * For use with PixelExperience / PixelExperience-based ROMs -->
-
   <!--Device tree-->
-  <project name="WindowsDev2021/android_device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" revision="twelve-noencrypt" remote="github"/>
-  <project name="WindowsDev2021/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="twelve" remote="github"/>
-  <!--Blobs-->
-  <project name="Sexynos/android_vendor_samsung_exynos9810-common" path="vendor/samsung/exynos9810-common" revision="twelve" remote="github"/>
-  <project name="Sexynos/android_vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="twelve" remote="github"/>
-  <!--Kernel-->
-  <project name="Sexynos/android_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="twelve" remote="github"/>
-  <!--SLSI-->
-  <project name="Sexynos/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="twelve" remote="github"/>
+  <project name="samsungexynos9810/device_samsung_exynos9810-common-V2" path="device/samsung/exynos9810-common" revision="thirteen" remote="github"/>
+  <project name="WindowsDev2021/device_samsung_crownlte-V2" path="device/samsung/crownlte" revision="tequila" remote="github"/>
+
+  <!-- Vendor -->
+  <project name="samsungexynos9810/vendor_samsung_exynos9810-common-V2" path="vendor/samsung/exynos9810-common" revision="thirteen" remote="github"/>
+  <project name="samsungexynos9810/vendor_samsung_crownlte-V2" path="vendor/samsung/crownlte" revision="thirteen" remote="github"/>
+
+  <!-- SLSI -->
+  <project name="samsungexynos9810/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen" remote="github"/>
+  
+  <!-- Kernel -->
+  <project name="samsungexynos9810/kernel_samsung_exynos9810-V2" path="kernel/samsung/exynos9810" revision="thirteen" remote="github"/>
+
 </manifest>
