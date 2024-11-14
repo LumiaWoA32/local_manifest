@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Device Tree -->
+ <project name="WindowsDev0/device_sony_pdx225" path="device/sony/pdx225" remote="github" revision="PixelBuilds" />
+
+ <!-- Blobs -->
+ <project name="WindowsDev0/vendor_sony_pdx225" path="vendor/sony/pdx225" remote="github" revision="A14" />
+
+ <!-- Hardware -->
+ <project name="WindowsDev0/hardware_sony" path="hardware/sony" remote="github" revision="UDC">
+ </project>
+
+ <!-- Vendor Extra -->
+ <project name="WindowsDev0/vendor_sony_extra" path="vendor/sony/extra" remote="github" revision="UDC" />
+
+ <!-- Kernel -->
+ <project name="XperiaLabs/kernel_sony_sm6375" path="kernel/sony/murami" remote="github" revision="lineage-20" />
+</manifest>
